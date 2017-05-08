@@ -1,0 +1,23 @@
+{
+  "name": "google-code-prettify",
+  "version": "1.0.0",
+  "description": "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"  \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">",
+  "main": "src/prettify.js",
+  "directories": {
+    "example": "examples",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pts-michaelvera/google-code-prettify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pts-michaelvera/google-code-prettify/issues"
+  },
+  "homepage": "https://github.com/pts-michaelvera/google-code-prettify#readme"
+}
